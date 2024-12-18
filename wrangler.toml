@@ -1,5 +1,5 @@
 name = "tunl"
-main = "build/worker/shim.mjs"
+main = "vless.js"
 compatibility_date = "2024-05-23"
 minify = true
 
